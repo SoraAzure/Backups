@@ -896,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-07-25 08:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2019-07-08 19:32:30 +0000"
@@ -1355,6 +1361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-07-25 08:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-06-26 07:14:36 +0000"
@@ -1502,6 +1514,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_the_recipe": "2019-06-29 09:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-07-25 08:04:13 +0000"
     },
     "done": true
   },

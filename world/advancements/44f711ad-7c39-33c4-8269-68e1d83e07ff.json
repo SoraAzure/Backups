@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-07-25 18:22:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2019-07-08 19:30:30 +0000"
@@ -410,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2019-07-25 18:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-09 12:50:47 +0000"
@@ -569,6 +581,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2019-07-09 11:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-07-25 18:22:24 +0000"
     },
     "done": true
   },
@@ -910,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-07-25 18:22:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2019-07-21 18:29:43 +0000"
@@ -1012,6 +1036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2019-07-25 18:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-09 12:50:47 +0000"
@@ -1069,6 +1099,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-07-08 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-07-25 18:22:24 +0000"
     },
     "done": true
   },
@@ -1177,11 +1213,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2019-07-20 09:10:49 +0000",
+      "frozen_river": "2019-07-25 17:58:03 +0000",
       "forest": "2019-07-16 12:15:22 +0000",
       "beaches": "2019-07-14 08:14:02 +0000",
       "desert_hills": "2019-07-14 08:51:50 +0000",
       "plains": "2019-07-08 19:30:31 +0000",
       "redwood_taiga": "2019-07-09 14:32:02 +0000",
+      "taiga": "2019-07-25 17:58:02 +0000",
       "taiga_hills": "2019-07-09 14:28:42 +0000",
       "redwood_taiga_hills": "2019-07-10 14:24:30 +0000",
       "ocean": "2019-07-14 08:17:59 +0000",
@@ -1199,6 +1237,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-07-08 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2019-07-25 18:36:28 +0000"
     },
     "done": true
   },
@@ -1373,6 +1417,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2019-07-09 11:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2019-07-25 18:36:28 +0000"
     },
     "done": true
   },

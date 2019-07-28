@@ -740,6 +740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-07-28 17:58:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2019-06-26 18:47:43 +0800"
@@ -1715,6 +1721,7 @@
       "taiga_cold_hills": "2019-06-26 15:49:16 +0800",
       "frozen_river": "2019-06-26 18:08:17 +0800",
       "forest": "2019-06-27 00:28:31 +0800",
+      "mesa_rock": "2019-07-28 18:10:32 +0800",
       "birch_forest": "2019-06-26 15:54:43 +0800",
       "swampland": "2019-06-26 16:16:13 +0800",
       "deep_ocean": "2019-06-27 04:47:30 +0800",

@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2020-01-18 04:02:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2020-01-18 04:02:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-06-28 04:55:14 +0800"
@@ -110,6 +122,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2019-07-13 17:41:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2020-01-18 04:02:21 +0800"
     },
     "done": true
   },
@@ -575,6 +593,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2019-06-27 20:52:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2020-01-18 04:02:21 +0800"
     },
     "done": true
   },
@@ -1112,6 +1136,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2019-06-26 15:24:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2020-01-18 04:02:19 +0800"
     },
     "done": true
   },
@@ -1751,6 +1781,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2019-06-28 04:55:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2020-01-18 04:02:19 +0800"
     },
     "done": true
   },
